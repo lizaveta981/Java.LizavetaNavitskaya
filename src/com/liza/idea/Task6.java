@@ -51,6 +51,7 @@ public class Task6 {
                 System.out.printf("%5d ", SubArray[i][j]);
             }
             System.out.println();
+            
         }
     }
 }
